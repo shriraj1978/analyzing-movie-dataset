@@ -1,0 +1,1 @@
+This project is for analysing a movie data set and finding the higher rated movies which can be suggested to a friend for watching it during his vacations. 
